@@ -2,7 +2,8 @@
   "json.schemas": [
     {
       "fileMatch": [
-        ".json"
+        "/en.json",
+        "/fr.json"
       ],
       "url": "./schema.json"
     }

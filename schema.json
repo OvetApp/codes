@@ -1,12 +1,9 @@
 {
   "type": "object",
-  "properties": {
-    "type": "object",
-    "patternProperties": {
-      "^[0-9][a-z][A-Z]+$": {
-        "type": "string"
-      }
-    },
-    "additionalProperties": false
-  }
+  "patternProperties": {
+    "^[0-9]+$": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
 }
