@@ -1,5 +1,47 @@
 {
-    "335861000009109" : "Vaccination contre la leptospirose canine",
-    "348691000009108" : "Vaccination contre la leucémie féline",
-    "361661000009100" : "Vaccination contre la bordetella"
+    "170365007": {
+        "name": "Première vaccination contre la rage",
+        "description": "Administration de la première dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "La vaccination initiale contre la rage, qui est cruciale pour protéger contre cette maladie virale mortelle."
+    },
+    "170366008": {
+        "name": "Deuxième vaccination contre la rage",
+        "description": "Administration de la deuxième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "La deuxième vaccination contre la rage, qui est vitale pour renforcer l'immunité établie par la première dose."
+    },
+    "170367004": {
+        "name": "Troisième vaccination contre la rage",
+        "description": "Administration de la troisième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "La troisième vaccination contre la rage, qui est importante pour garantir une immunité continue."
+    },
+    "335861000009109": {
+        "name": "Vaccination contre la leptospirose canine",
+        "description": "Vaccin qui protège contre la leptospirose, une infection bactérienne qui peut affecter le foie et les reins.",
+        "details": "La leptospirose est zoonotique, ce qui signifie qu'elle peut également être transmise aux humains, rendant la vaccination une mesure préventive essentielle pour les animaux de compagnie et leurs propriétaires."
+    },
+    "348691000009108": {
+        "name": "Vaccination contre la leucémie féline",
+        "description": "Vaccin conçu pour protéger contre le virus de la leucémie féline (FeLV), qui peut supprimer le système immunitaire et entraîner des maladies graves.",
+        "details": "Cette vaccination est particulièrement importante pour les animaux d'extérieur ou sociaux qui peuvent entrer en contact avec des individus infectés."
+    },
+    "361661000009100": {
+        "name": "Vaccination contre la bordetella",
+        "description": "Administration d'un produit vaccinal contenant l'antigène de Bordetella bronchiseptica",
+        "details": "Un vaccin pour protéger contre Bordetella bronchiseptica, une cause bactérienne courante de toux de chenil."
+    },
+    "396455004": {
+        "name": "Administration du vaccin contre la maladie de Lyme",
+        "description": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
+        "details": "Un vaccin conçu pour protéger contre Borrelia burgdorferi, la bactérie responsable de la maladie de Lyme."
+    },
+    "34631000": {
+        "name": "Vaccination contre la rage",
+        "description": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "Un vaccin qui protège contre la rage, une maladie virale qui affecte le système nerveux central."
+    },
+    "416059007": {
+        "name": "Vaccination de rappel contre la rage",
+        "description": "Administration d'une dose de rappel d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "Une vaccination de rappel qui renforce la protection contre la rage."
+    }
 }
