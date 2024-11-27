@@ -1,0 +1,18 @@
+[
+    {
+        "conceptID": 335861000009109,
+        "name": "Immunization for canine leptospirosis",
+        "details": "A vaccine that protects dogs against leptospirosis, a bacterial infection that can affect the liver and kidneys. Leptospirosis is zoonotic, meaning it can also be transmitted to humans, making vaccination an essential preventative measure for pets and their owners."
+    },
+    {
+        "conceptID": 348691000009108,
+        "name": "Immunization for feline leukemia",
+        "details": "A vaccine designed to protect cats from feline leukemia virus (FeLV), which can suppress the immune system and lead to severe illnesses. This immunization is especially important for outdoor or social cats that may come into contact with infected animals."
+    },
+    {
+        "conceptID": 361661000009100,
+        "name": "Immunization for bordetella",
+        "description": "Administration of vaccine product containing Bordetella bronchisepticum antigen",
+        "details": "A vaccine to protect against Bordetella bronchiseptica, a common bacterial cause of kennel cough in dogs. This immunization is particularly recommended for dogs that are frequently in contact with other pets in environments like boarding facilities or dog parks."
+    }
+]
