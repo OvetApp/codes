@@ -2,47 +2,53 @@
     {
         "conceptID": 335861000009109,
         "name": "Immunization for canine leptospirosis",
-        "details": "A vaccine that protects dogs against leptospirosis, a bacterial infection that can affect the liver and kidneys. Leptospirosis is zoonotic, meaning it can also be transmitted to humans, making vaccination an essential preventative measure for pets and their owners."
+        "details": "A vaccine that protects against leptospirosis, a bacterial infection that can affect the liver and kidneys. Leptospirosis is zoonotic, meaning it can also be transmitted to humans, making vaccination an essential preventative measure for pets and their owners."
     },
     {
         "conceptID": 348691000009108,
         "name": "Immunization for feline leukemia",
-        "details": "A vaccine designed to protect cats from feline leukemia virus (FeLV), which can suppress the immune system and lead to severe illnesses. This immunization is especially important for outdoor or social cats that may come into contact with infected animals."
+        "details": "A vaccine designed to protect from feline leukemia virus (FeLV), which can suppress the immune system and lead to severe illnesses. This immunization is especially important for outdoor or social animals that may come into contact with infected individuals."
     },
     {
         "conceptID": 361661000009100,
         "name": "Immunization for bordetella",
         "description": "Administration of vaccine product containing Bordetella bronchisepticum antigen",
-        "details": "A vaccine to protect against Bordetella bronchiseptica, a common bacterial cause of kennel cough in dogs. This immunization is particularly recommended for dogs that are frequently in contact with other pets in environments like boarding facilities or dog parks."
+        "details": "A vaccine to protect against Bordetella bronchiseptica, a common bacterial cause of kennel cough. This immunization is particularly recommended for animals that are frequently in contact with others in environments like boarding facilities or parks."
     },
     {
         "conceptID": 396455004,
         "name": "Administration of Lyme disease vaccine",
         "description": "Administration of vaccine product containing only Borrelia burgdorferi antigen",
-        "details": "A vaccine designed to protect against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This immunization is crucial for dogs that may be exposed to ticks in endemic areas, helping to prevent the onset of this potentially serious illness."
+        "details": "A vaccine designed to protect against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This immunization is crucial for those that may be exposed to ticks in endemic areas, helping to prevent the onset of this potentially serious illness."
     },
     {
         "conceptID": 34631000,
         "name": "Rabies vaccination",
         "description": "Administration of vaccine product containing only Rabies lyssavirus antigen",
-        "details": "A vaccine that protects against rabies, a viral disease that affects the central nervous system and is almost always fatal once symptoms appear. This vaccination is essential for dogs, as rabies is a zoonotic disease that can be transmitted to humans, making it a critical component of responsible pet ownership."
+        "details": "A vaccine that protects against rabies, a viral disease that affects the central nervous system and is almost always fatal once symptoms appear. This vaccination is essential, as rabies is a zoonotic disease that can be transmitted to humans, making it a critical component of responsible pet ownership."
     },
     {
         "conceptID": 416059007,
         "name": "Rabies booster vaccination",
         "description": "Administration of booster dose of vaccine product containing only Rabies lyssavirus antigen",
-        "details": "A booster vaccination that reinforces the protection against rabies, a viral disease that poses a significant risk to both pets and humans. This booster is essential for maintaining immunity in dogs, ensuring they remain protected against rabies throughout their lives, especially if they are at risk of exposure."
+        "details": "A booster vaccination that reinforces the protection against rabies, a viral disease that poses a significant risk to both pets and humans. This booster is essential for maintaining immunity, ensuring continued protection against rabies throughout their lives, especially if they are at risk of exposure."
     },
     {
         "conceptID": 170365007,
         "name": "First rabies vaccination",
         "description": "Administration of first dose of vaccine product containing only Rabies lyssavirus antigen",
-        "details": "The initial vaccination against rabies, which is crucial for protecting dogs from this deadly viral disease. This first dose is essential for establishing immunity and is typically administered at a young age, ensuring that pets are safeguarded from rabies exposure as they grow and interact with their environment."
+        "details": "The initial vaccination against rabies, which is crucial for protecting from this deadly viral disease. This first dose is essential for establishing immunity and is typically administered at a young age, ensuring that pets are safeguarded from rabies exposure as they grow and interact with their environment."
     },
     {
         "conceptID": 170366008,
         "name": "Second rabies vaccination",
         "description": "Administration of second dose of vaccine product containing only Rabies lyssavirus antigen",
-        "details": "The second vaccination against rabies, which is vital for reinforcing the immunity established by the first dose. This vaccination is typically administered a few weeks after the initial dose, ensuring that dogs maintain adequate protection against this potentially fatal viral disease as they continue to grow and interact with their environment."
+        "details": "The second vaccination against rabies, which is vital for reinforcing the immunity established by the first dose. This vaccination is typically administered a few weeks after the initial dose, ensuring that adequate protection is maintained against this potentially fatal viral disease."
+    },
+    {
+        "conceptID": 170367004,
+        "name": "Third rabies vaccination",
+        "description": "Administration of third dose of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "The third vaccination against rabies, which is important for ensuring continued immunity. This dose is typically administered a year after the second vaccination, helping to maintain a strong defense against this potentially fatal viral disease as animals continue to grow and encounter various environments."
     }
 ]
