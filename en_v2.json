@@ -14,5 +14,11 @@
         "name": "Immunization for bordetella",
         "description": "Administration of vaccine product containing Bordetella bronchisepticum antigen",
         "details": "A vaccine to protect against Bordetella bronchiseptica, a common bacterial cause of kennel cough in dogs. This immunization is particularly recommended for dogs that are frequently in contact with other pets in environments like boarding facilities or dog parks."
+    },
+    {
+        "conceptID": 396455004,
+        "name": "Administration of Lyme disease vaccine",
+        "description": "Administration of vaccine product containing only Borrelia burgdorferi antigen",
+        "details": "A vaccine designed to protect against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This immunization is crucial for dogs that may be exposed to ticks in endemic areas, helping to prevent the onset of this potentially serious illness."
     }
 ]
