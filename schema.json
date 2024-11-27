@@ -4,9 +4,6 @@
     "^[0-9]+$": {
       "type": "object",
       "properties": {
-        "conceptID": {
-          "type": "integer"
-        },
         "name": {
           "type": "string"
         },
@@ -17,7 +14,7 @@
           "type": "string"
         }
       },
-      "required": ["conceptID", "name"],
+      "required": ["name"],
       "additionalProperties": false
     }
   },
