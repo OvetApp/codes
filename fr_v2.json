@@ -1,0 +1,56 @@
+[
+    {
+        "conceptID": 335861000009109,
+        "name": "Vaccination contre la leptospirose canine",
+        "description": "Vaccin qui protège contre la leptospirose, une infection bactérienne qui peut affecter le foie et les reins.",
+        "details": "Un vaccin qui protège contre la leptospirose, une infection bactérienne qui peut affecter le foie et les reins. La leptospirose est zoonotique, ce qui signifie qu'elle peut également être transmise aux humains, rendant la vaccination une mesure préventive essentielle pour les animaux de compagnie et leurs propriétaires."
+    },
+    {
+        "conceptID": 348691000009108,
+        "name": "Vaccination contre la leucémie féline",
+        "description": "Vaccin conçu pour protéger contre le virus de la leucémie féline (FeLV), qui peut supprimer le système immunitaire et entraîner des maladies graves.",
+        "details": "Un vaccin conçu pour protéger contre le virus de la leucémie féline (FeLV), qui peut supprimer le système immunitaire et entraîner des maladies graves. Cette vaccination est particulièrement importante pour les animaux d'extérieur ou sociaux qui peuvent entrer en contact avec des individus infectés."
+    },
+    {
+        "conceptID": 361661000009100,
+        "name": "Vaccination contre la bordetella",
+        "description": "Administration d'un produit vaccinal contenant l'antigène de Bordetella bronchiseptica",
+        "details": "Un vaccin pour protéger contre Bordetella bronchiseptica, une cause bactérienne courante de toux de chenil. Cette vaccination est particulièrement recommandée pour les animaux qui sont fréquemment en contact avec d'autres dans des environnements comme les installations de garde ou les parcs."
+    },
+    {
+        "conceptID": 396455004,
+        "name": "Administration du vaccin contre la maladie de Lyme",
+        "description": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
+        "details": "Un vaccin conçu pour protéger contre Borrelia burgdorferi, la bactérie responsable de la maladie de Lyme. Cette vaccination est cruciale pour ceux qui peuvent être exposés aux tiques dans les zones endémiques, aidant à prévenir l'apparition de cette maladie potentiellement grave."
+    },
+    {
+        "conceptID": 34631000,
+        "name": "Vaccination contre la rage",
+        "description": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "Un vaccin qui protège contre la rage, une maladie virale qui affecte le système nerveux central et est presque toujours fatale une fois que les symptômes apparaissent. Cette vaccination est essentielle, car la rage est une maladie zoonotique qui peut être transmise aux humains, ce qui en fait un élément critique de la responsabilité en matière de possession d'animaux de compagnie."
+    },
+    {
+        "conceptID": 416059007,
+        "name": "Vaccination de rappel contre la rage",
+        "description": "Administration d'une dose de rappel d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "Une vaccination de rappel qui renforce la protection contre la rage, une maladie virale qui pose un risque significatif tant pour les animaux de compagnie que pour les humains. Ce rappel est essentiel pour maintenir l'immunité, garantissant une protection continue contre la rage tout au long de leur vie, surtout s'ils sont à risque d'exposition."
+    },
+    {
+        "conceptID": 170365007,
+        "name": "Première vaccination contre la rage",
+        "description": "Administration de la première dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "La vaccination initiale contre la rage, qui est cruciale pour protéger contre cette maladie virale mortelle. Cette première dose est essentielle pour établir l'immunité et est généralement administrée à un jeune âge, garantissant que les animaux de compagnie sont protégés contre l'exposition à la rage à mesure qu'ils grandissent et interagissent avec leur environnement."
+    },
+    {
+        "conceptID": 170366008,
+        "name": "Deuxième vaccination contre la rage",
+        "description": "Administration de la deuxième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "La deuxième vaccination contre la rage, qui est vitale pour renforcer l'immunité établie par la première dose. Cette vaccination est généralement administrée quelques semaines après la dose initiale, garantissant que la protection adéquate est maintenue contre cette maladie virale potentiellement fatale."
+    },
+    {
+        "conceptID": 170367004,
+        "name": "Troisième vaccination contre la rage",
+        "description": "Administration de la troisième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "details": "La troisième vaccination contre la rage, qui est importante pour garantir une immunité continue. Cette dose est généralement administrée un an après la deuxième vaccination, aidant à maintenir une défense solide contre cette maladie virale potentiellement fatale à mesure que les animaux continuent de grandir et de rencontrer divers environnements."
+    }
+]
