@@ -6,5 +6,5 @@
 - hl7
 
 ## Supported languages
-- English (en)
-- French (fr)
+- English `en`
+- French `fr`
