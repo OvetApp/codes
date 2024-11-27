@@ -20,5 +20,29 @@
         "name": "Administration of Lyme disease vaccine",
         "description": "Administration of vaccine product containing only Borrelia burgdorferi antigen",
         "details": "A vaccine designed to protect against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This immunization is crucial for dogs that may be exposed to ticks in endemic areas, helping to prevent the onset of this potentially serious illness."
+    },
+    {
+        "conceptID": 34631000,
+        "name": "Rabies vaccination",
+        "description": "Administration of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "A vaccine that protects against rabies, a viral disease that affects the central nervous system and is almost always fatal once symptoms appear. This vaccination is essential for dogs, as rabies is a zoonotic disease that can be transmitted to humans, making it a critical component of responsible pet ownership."
+    },
+    {
+        "conceptID": 416059007,
+        "name": "Rabies booster vaccination",
+        "description": "Administration of booster dose of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "A booster vaccination that reinforces the protection against rabies, a viral disease that poses a significant risk to both pets and humans. This booster is essential for maintaining immunity in dogs, ensuring they remain protected against rabies throughout their lives, especially if they are at risk of exposure."
+    },
+    {
+        "conceptID": 170365007,
+        "name": "First rabies vaccination",
+        "description": "Administration of first dose of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "The initial vaccination against rabies, which is crucial for protecting dogs from this deadly viral disease. This first dose is essential for establishing immunity and is typically administered at a young age, ensuring that pets are safeguarded from rabies exposure as they grow and interact with their environment."
+    },
+    {
+        "conceptID": 170366008,
+        "name": "Second rabies vaccination",
+        "description": "Administration of second dose of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "The second vaccination against rabies, which is vital for reinforcing the immunity established by the first dose. This vaccination is typically administered a few weeks after the initial dose, ensuring that dogs maintain adequate protection against this potentially fatal viral disease as they continue to grow and interact with their environment."
     }
 ]
