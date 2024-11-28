@@ -1,0 +1,12 @@
+{
+    "170366008_ovetRabies2nd": {
+        "name": "Second rabies vaccination",
+        "description": "Administration of second dose of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "The second vaccination against rabies, which is vital for reinforcing the immunity established by the first dose."
+    },
+    "ovetRabies3rd_170367004": {
+        "name": "Third rabies vaccination",
+        "description": "Administration of third dose of vaccine product containing only Rabies lyssavirus antigen",
+        "details": "The third vaccination against rabies, which is important for ensuring continued immunity."
+    }
+}
