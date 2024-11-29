@@ -1,23 +1,14 @@
 {
-  "OVET344321000009105": {
+  "344321000009105": {
     "conceptId": "344321000009105",
     "name": "Third rabies vaccination",
     "description": "Administration of third dose of vaccine product containing only Rabies lyssavirus antigen",
     "details": "The third vaccination against rabies, which is important for ensuring continued immunity."
   },
-  "OVET344321000009103": {
+  "344321000009103": {
     "conceptId": "12345",
     "name": "COVId-19 for dogzdies",
     "description": "Administration of third dose of vaccine product containing only Rabies lyssavirus antigen",
     "details": "The third vaccination against rabies, which is important for ensuring continued immunity."
-  },
-
-  "en": {
-    "344321000009105": {
-      "conceptId": "344321000009105",
-      "name": "Third rabies inside en.344321000009105",
-      "description": "Administration of third dose of vaccine product containing only Rabies lyssavirus antigen",
-      "details": "The third vaccination against rabies, which is important for ensuring continued immunity."
-    }
   }
 }
