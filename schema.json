@@ -7,7 +7,7 @@
         "name": {
           "type": "string"
         },
-        "ovetShorthandhand": {
+        "ovetShorthand": {
           "type": "string"
         },
         "description": {
