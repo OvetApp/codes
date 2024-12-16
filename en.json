@@ -40,7 +40,6 @@
         "description": "Administration of vaccine product containing only borrelia burgdorferi antigen",
         "ovetShorthand": "lyme disease",
         "ovetDetailed": "This vaccine protects against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This tick-borne illness can cause serious complications including joint pain, fever, and kidney problems. Vaccination is particularly important in areas where ticks are prevalent."
-        "ovetDetailed": "This vaccine protects against borrelia burgdorferi, the bacterium responsible for lyme disease. This tick-borne illness can cause serious complications including joint pain, fever, and kidney problems. Vaccination is particularly important in areas where ticks are prevalent."
     },
     "34631000": {
         "name": "rabies vaccination",
@@ -125,5 +124,11 @@
         "description": "Evaluation of body condition indicating a severely obese body condition.",
         "ovetShorthand": "body condition: 9/9",
         "ovetDetailed": "This score indicates a severely obese body condition, suggesting that the animal is at extreme risk of life-threatening health problems and requires urgent veterinary attention."
+    },
+    "27113001": {
+        "name": "Body weight",
+        "description": "Measurement of the animal's weight, an important indicator of health and nutrition.",
+        "ovetShorthand": "body weight",
+        "ovetDetailed": "This measurement is important for assessing the overall health of the animal. Regular monitoring of body weight helps in identifying potential health issues and ensuring proper nutrition."
     }
 }

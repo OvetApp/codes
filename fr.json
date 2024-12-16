@@ -124,5 +124,11 @@
         "description": "Évaluation de l'état de chair indiquant une condition corporelle sévèrement obèse.",
         "ovetShorthand": "état de chair: 9/9",
         "ovetDetailed": "Ce score indique une condition corporelle sévèrement obèse, suggérant que l'animal est à un risque extrême de problèmes de santé mettant sa vie en danger et nécessite une attention vétérinaire urgente."
+    },
+    "27113001": {
+        "name": "Poids corporel",
+        "description": "Mesure du poids de l'animal, un indicateur important de santé et de nutrition.",
+        "ovetShorthand": "poids corporel",
+        "ovetDetailed": "Cette mesure est importante pour évaluer la santé globale de l'animal. La surveillance régulière du poids corporel aide à identifier les problèmes de santé potentiels et à garantir une nutrition adéquate."
     }
 }
