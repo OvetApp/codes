@@ -7,11 +7,16 @@
         "name": {
           "type": "string"
         },
+        "ovetShorthandhand": {
+          "type": "string"
+        },
         "description": {
           "type": "string"
         },
-        "details": {
-          "type": "string"
+        "ovetDetailed": {
+          "type": "string",
+          "minLength": 150,
+          "maxLength": 250
         }
       },
       "required": ["name"],
