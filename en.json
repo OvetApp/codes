@@ -73,51 +73,57 @@
         "ovetDetailed": "This vaccination is essential for protecting cats against three serious viral diseases. It is particularly important for young cats and those living in high-risk environments."
     },
     "361911000009107": {
+        "name": "body condition score 1/9",
+        "description": "Evaluation of body condition indicating a very thin body condition.",
+        "ovetShorthand": "body condition: 1/9",
+        "ovetDetailed": "This score indicates a very thin body condition, suggesting that the animal may be underweight and in need of nutritional support."
+    },
+    "361921000009104": {
         "name": "body condition score 2/9",
-        "description": "Assessment of body condition score indicating a thin body condition.",
-        "ovetShorthand": "body condition score: 2/9",
+        "description": "Evaluation of body condition indicating a thin body condition.",
+        "ovetShorthand": "body condition: 2/9",
         "ovetDetailed": "This score indicates a thin body condition, suggesting that the animal may be slightly underweight and could benefit from increased nutrition."
     },
     "361931000009102": {
         "name": "body condition score 3/9",
-        "description": "Assessment of body condition score indicating a moderate body condition.",
-        "ovetShorthand": "body condition score: 3/9",
-        "ovetDetailed": "This score indicates a moderate body condition, suggesting that the animal is at a healthy weight but may need monitoring."
+        "description": "Evaluation of body condition indicating a moderate body condition.",
+        "ovetShorthand": "body condition: 3/9",
+        "ovetDetailed": "This score indicates a moderate body condition, suggesting that the animal is at a healthy weight but may require monitoring."
     },
     "361941000009108": {
         "name": "body condition score 4/9",
-        "description": "Assessment of body condition score indicating an ideal body condition.",
-        "ovetShorthand": "body condition score: 4/9",
+        "description": "Evaluation of body condition indicating an ideal body condition.",
+        "ovetShorthand": "body condition: 4/9",
         "ovetDetailed": "This score indicates an ideal body condition, suggesting that the animal is at a healthy weight and in good health."
     },
     "361971000009100": {
         "name": "body condition score 5/9",
-        "description": "Assessment of body condition score indicating a slightly overweight body condition.",
-        "ovetShorthand": "body condition score: 5/9",
-        "ovetDetailed": "This score indicates a slightly overweight body condition, suggesting that the animal may need to reduce food intake or increase exercise."
+        "description": "Evaluation of body condition indicating a slightly overweight body condition.",
+        "ovetShorthand": "body condition: 5/9",
+        "ovetDetailed": "This score indicates a slightly overweight body condition, suggesting that the animal may need to reduce its food intake or increase its exercise."
     },
     "361951000009106": {
         "name": "body condition score 6/9",
-        "description": "Assessment of body condition score indicating an overweight body condition.",
-        "ovetShorthand": "body condition score: 6/9",
-        "ovetDetailed": "This score indicates an overweight body condition, suggesting that the animal is at risk for health issues and may require a weight management plan."
+        "description": "Evaluation of body condition indicating an overweight body condition.",
+        "ovetShorthand": "body condition: 6/9",
+        "ovetDetailed": "This score indicates an overweight body condition, suggesting that the animal is at risk of health problems and may require a weight management plan."
     },
     "361961000009109": {
         "name": "body condition score 7/9",
-        "description": "Assessment of body condition score indicating a moderately obese body condition.",
-        "ovetShorthand": "body condition score: 7/9",
+        "description": "Evaluation of body condition indicating a moderately obese body condition.",
+        "ovetShorthand": "body condition: 7/9",
         "ovetDetailed": "This score indicates a moderately obese body condition, suggesting that the animal is significantly overweight and should be evaluated for a weight loss program."
     },
     "361981000009103": {
         "name": "body condition score 8/9",
-        "description": "Assessment of body condition score indicating an obese body condition.",
-        "ovetShorthand": "body condition score: 8/9",
-        "ovetDetailed": "This score indicates an obese body condition, suggesting that the animal is at high risk for serious health issues and requires immediate dietary intervention."
+        "description": "Evaluation of body condition indicating an obese body condition.",
+        "ovetShorthand": "body condition: 8/9",
+        "ovetDetailed": "This score indicates an obese body condition, suggesting that the animal is at high risk of serious health problems and requires immediate dietary intervention."
     },
     "361991000009101": {
         "name": "body condition score 9/9",
-        "description": "Assessment of body condition score indicating a severely obese body condition.",
-        "ovetShorthand": "body condition score: 9/9",
-        "ovetDetailed": "This score indicates a severely obese body condition, suggesting that the animal is at extreme risk for life-threatening health issues and needs urgent veterinary attention."
+        "description": "Evaluation of body condition indicating a severely obese body condition.",
+        "ovetShorthand": "body condition: 9/9",
+        "ovetDetailed": "This score indicates a severely obese body condition, suggesting that the animal is at extreme risk of life-threatening health problems and requires urgent veterinary attention."
     }
 }

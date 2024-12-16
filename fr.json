@@ -36,9 +36,9 @@
         "ovetDetailed": "Ce vaccin protège contre Bordetella bronchiseptica, une cause courante de toux de chenil, et est essentiel pour les chiens sociaux."
     },
     "396455004": {
-        "name": "administration du vaccin contre la maladie de lyme",
+        "name": "administration du vaccin contre la maladie de Lyme",
         "description": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
-        "ovetShorthand": "maladie de lyme",
+        "ovetShorthand": "maladie de Lyme",
         "ovetDetailed": "Ce vaccin protège contre Borrelia burgdorferi, responsable de la maladie de Lyme, qui peut causer des complications graves."
     },
     "34631000": {
@@ -54,73 +54,73 @@
         "ovetDetailed": "Cette vaccination de rappel renforce la protection contre la rage et est essentielle pour maintenir les niveaux d'immunité."
     },
     "351341000009101": {
-        "name": "vaccination contre la la maladie de carré/hépatite canine",
+        "name": "Vaccination contre la la maladie de Carré/hépatite canine",
         "description": "Un vaccin qui protège contre la maladie de Carré et l'hépatite infectieuse, deux maladies virales graves.",
         "ovetShorthand": "distemper/hépatite",
         "ovetDetailed": "Cette vaccination est essentielle pour protéger les chiens contre deux maladies virales graves : la maladie de Carré et l'hépatite infectieuse. La vaccination est particulièrement importante pour les chiens dans des environnements à haut risque."
     },
     "344321000009105": {
-        "name": "vaccination animale contre la rage",
+        "name": "Vaccination animale contre la rage",
         "description": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique pour les animaux.",
         "ovetShorthand": "rage",
         "ovetDetailed": "Cette vaccination est essentielle pour les animaux afin de les protéger contre la rage, une maladie virale qui peut être fatale. Assurer que tous les animaux soient vaccinés est crucial pour la santé publique et la sécurité."
     },
     "335711000009100": {
-        "name": "vaccination contre la rhinotrachéite/fpl/calici",
+        "name": "Vaccination contre la rhinotrachéite/FPL/calici",
         "description": "Un vaccin qui protège contre la rhinotrachéite virale féline, le virus de la panleucopénie féline (FPL) et le virus calicivirus félin.",
-        "ovetShorthand": "rhinotrachéite/fpl/calici",
+        "ovetShorthand": "rhinotrachéite/FPL/calici",
         "ovetDetailed": "Cette vaccination est essentielle pour protéger les chats contre trois maladies virales graves. Elle est particulièrement importante pour les jeunes chats et ceux vivant dans des environnements à risque."
     },
     "361911000009107": {
-        "name": "état de chair 1/9",
+        "name": "État de chair 1/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle très mince.",
-        "ovetShorthand": "état de chair: 1/9",
+        "ovetShorthand": "état de chair:1/9",
         "ovetDetailed": "Ce score indique une condition corporelle très mince, suggérant que l'animal peut être sous-poids et avoir besoin d'un soutien nutritionnel."
     },
     "361921000009104": {
-        "name": "état de chair 2/9",
+        "name": "État de chair 2/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle mince.",
         "ovetShorthand": "état de chair: 2/9",
         "ovetDetailed": "Ce score indique une condition corporelle mince, suggérant que l'animal peut être légèrement sous-poids et pourrait bénéficier d'une nutrition accrue."
     },
     "361931000009102": {
-        "name": "état de chair 3/9",
+        "name": "État de chair 3/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle modérée.",
         "ovetShorthand": "état de chair: 3/9",
         "ovetDetailed": "Ce score indique une condition corporelle modérée, suggérant que l'animal est à un poids sain mais peut nécessiter une surveillance."
     },
     "361941000009108": {
-        "name": "état de chair 4/9",
+        "name": "État de chair 4/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle idéale.",
         "ovetShorthand": "état de chair: 4/9",
         "ovetDetailed": "Ce score indique une condition corporelle idéale, suggérant que l'animal est à un poids sain et en bonne santé."
     },
     "361971000009100": {
-        "name": "état de chair 5/9",
+        "name": "État de chair 5/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle légèrement en surpoids.",
         "ovetShorthand": "état de chair: 5/9",
         "ovetDetailed": "Ce score indique une condition corporelle légèrement en surpoids, suggérant que l'animal peut avoir besoin de réduire son apport alimentaire ou d'augmenter son exercice."
     },
     "361951000009106": {
-        "name": "état de chair 6/9",
+        "name": "État de chair 6/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle en surpoids.",
         "ovetShorthand": "état de chair: 6/9",
         "ovetDetailed": "Ce score indique une condition corporelle en surpoids, suggérant que l'animal est à risque de problèmes de santé et peut nécessiter un plan de gestion du poids."
     },
     "361961000009109": {
-        "name": "état de chair 7/9",
+        "name": "État de chair 7/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle modérément obèse.",
         "ovetShorthand": "état de chair: 7/9",
         "ovetDetailed": "Ce score indique une condition corporelle modérément obèse, suggérant que l'animal est significativement en surpoids et devrait être évalué pour un programme de perte de poids."
     },
     "361981000009103": {
-        "name": "état de chair 8/9",
+        "name": "État de chair 8/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle obèse.",
         "ovetShorthand": "état de chair: 8/9",
         "ovetDetailed": "Ce score indique une condition corporelle obèse, suggérant que l'animal est à haut risque de problèmes de santé graves et nécessite une intervention diététique immédiate."
     },
     "361991000009101": {
-        "name": "état de chair 9/9",
+        "name": "État de chair 9/9",
         "description": "Évaluation de l'état de chair indiquant une condition corporelle sévèrement obèse.",
         "ovetShorthand": "état de chair: 9/9",
         "ovetDetailed": "Ce score indique une condition corporelle sévèrement obèse, suggérant que l'animal est à un risque extrême de problèmes de santé mettant sa vie en danger et nécessite une attention vétérinaire urgente."
