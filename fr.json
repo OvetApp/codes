@@ -1,54 +1,54 @@
 {
     "170365007": {
-        "name": "Première vaccination contre la rage",
+        "name": "première vaccination contre la rage",
         "description": "Administration de la première dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
         "ovetShorthand": "rage",
         "ovetDetailed": "Cette vaccination initiale contre la rage est cruciale pour protéger contre cette maladie virale mortelle. Elle commence à construire l'immunité en stimulant la production d'anticorps."
     },
     "170366008": {
-        "name": "Deuxième vaccination contre la rage",
+        "name": "deuxième vaccination contre la rage",
         "description": "Administration de la deuxième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
         "ovetShorthand": "rage",
         "ovetDetailed": "Cette deuxième vaccination est vitale pour renforcer l'immunité établie par la première dose et garantir une protection durable."
     },
     "170367004": {
-        "name": "Troisième vaccination contre la rage",
+        "name": "troisième vaccination contre la rage",
         "description": "Administration de la troisième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
         "ovetShorthand": "rage",
         "ovetDetailed": "Cette troisième vaccination est importante pour assurer une immunité continue et compléter la protection à long terme."
     },
     "335861000009109": {
-        "name": "Vaccination contre la leptospirose canine",
+        "name": "vaccination contre la leptospirose canine",
         "description": "Un vaccin qui protège contre la leptospirose, une infection bactérienne qui peut affecter le foie et les reins.",
         "ovetShorthand": "leptospirose",
         "ovetDetailed": "Cette vaccination protège contre les bactéries Leptospira, qui peuvent causer de graves infections. Elle est essentielle pour les chiens exposés à l'extérieur."
     },
     "348691000009108": {
-        "name": "Vaccination contre la leucémie féline",
+        "name": "vaccination contre la leucémie féline",
         "description": "Un vaccin conçu pour protéger contre le virus de la leucémie féline (FeLV), qui peut supprimer le système immunitaire.",
         "ovetShorthand": "leucémie féline",
         "ovetDetailed": "Cette vaccination est cruciale pour les chats d'extérieur qui peuvent entrer en contact avec des individus infectés."
     },
     "361661000009100": {
-        "name": "Vaccination contre la bordetella",
+        "name": "vaccination contre la bordetella",
         "description": "Administration d'un produit vaccinal contenant l'antigène de Bordetella bronchiseptica",
         "ovetShorthand": "bordetella",
         "ovetDetailed": "Ce vaccin protège contre Bordetella bronchiseptica, une cause courante de toux de chenil, et est essentiel pour les chiens sociaux."
     },
     "396455004": {
-        "name": "Administration du vaccin contre la maladie de Lyme",
+        "name": "administration du vaccin contre la maladie de Lyme",
         "description": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
         "ovetShorthand": "maladie de Lyme",
         "ovetDetailed": "Ce vaccin protège contre Borrelia burgdorferi, responsable de la maladie de Lyme, qui peut causer des complications graves."
     },
     "34631000": {
-        "name": "Vaccination contre la rage",
+        "name": "vaccination contre la rage",
         "description": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
         "ovetShorthand": "rage",
         "ovetDetailed": "Ce vaccin protège contre la rage, une maladie virale affectant le système nerveux central, souvent exigée par la loi."
     },
     "416059007": {
-        "name": "Vaccination de rappel contre la rage",
+        "name": "vaccination de rappel contre la rage",
         "description": "Administration d'une dose de rappel d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
         "ovetShorthand": "rage",
         "ovetDetailed": "Cette vaccination de rappel renforce la protection contre la rage et est essentielle pour maintenir les niveaux d'immunité."

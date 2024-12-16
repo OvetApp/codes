@@ -1,54 +1,54 @@
 {
     "170365007": {
-        "name": "First rabies vaccination",
+        "name": "first rabies vaccination",
         "description": "Administration of first dose of vaccine product containing only Rabies lyssavirus antigen",
         "ovetShorthand": "rabies",
         "ovetDetailed": "This initial vaccination against rabies is crucial for protecting against this deadly viral disease. This first dose begins building immunity by stimulating the production of antibodies. Regular vaccination is essential for pets as rabies can be fatal and is a significant public health concern."
     },
     "170366008": {
-        "name": "Second rabies vaccination",
+        "name": "second rabies vaccination",
         "description": "Administration of second dose of vaccine product containing only Rabies lyssavirus antigen",
         "ovetShorthand": "rabies",
         "ovetDetailed": "This second vaccination against rabies is vital for reinforcing the immunity established by this first dose. This follow-up vaccination helps ensure long-lasting protection by strengthening the immune response and is typically administered according to a specific schedule determined by veterinary guidelines."
     },
     "170367004": {
-        "name": "Third rabies vaccination",
+        "name": "third rabies vaccination",
         "description": "Administration of third dose of vaccine product containing only Rabies lyssavirus antigen",
         "ovetShorthand": "rabies",
         "ovetDetailed": "This third vaccination against rabies is important for ensuring continued immunity. This final dose in this initial series completes the foundation for long-term protection. Regular boosters may still be required according to local regulations and veterinary recommendations."
     },
     "335861000009109": {
-        "name": "Immunization for canine leptospirosis",
+        "name": "immunization for canine leptospirosis",
         "description": "A vaccine that protects against leptospirosis, a bacterial infection that can affect the liver and kidneys.",
         "ovetShorthand": "leptospirosis",
         "ovetDetailed": "This vaccination protects against Leptospira bacteria, which can cause serious kidney and liver infections. This bacteria persist in water and soil for long periods. Vaccination is especially important for dogs with outdoor exposure as this disease can be transmitted to humans."
     },
     "348691000009108": {
-        "name": "Immunization for feline leukemia",
+        "name": "immunization for feline leukemia",
         "description": "A vaccine designed to protect from feline leukemia virus (FeLV), which can suppress the immune system and lead to severe illnesses.",
         "ovetShorthand": "feline leukemia",
         "ovetDetailed": "This immunization is especially important for outdoor or social cats that may come into contact with infected individuals. This FeLV can spread through close contact and shared resources. Early vaccination provides the best protection, particularly for young cats most susceptible to infection."
     },
     "361661000009100": {
-        "name": "Immunization for bordetella",
+        "name": "immunization for bordetella",
         "description": "Administration of vaccine product containing Bordetella bronchisepticum antigen",
         "ovetShorthand": "bordetella",
         "ovetDetailed": "This vaccine protects against Bordetella bronchiseptica, a common bacterial cause of kennel cough. This highly contagious respiratory infection can spread rapidly in areas where dogs congregate, such as kennels, dog parks, and grooming facilities. Vaccination is particularly important for social dogs."
     },
     "396455004": {
-        "name": "Administration of Lyme disease vaccine",
+        "name": "administration of lyme disease vaccine",
         "description": "Administration of vaccine product containing only Borrelia burgdorferi antigen",
         "ovetShorthand": "lyme disease",
         "ovetDetailed": "This vaccine protects against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This tick-borne illness can cause serious complications including joint pain, fever, and kidney problems. Vaccination is particularly important in areas where ticks are prevalent."
     },
     "34631000": {
-        "name": "Rabies vaccination",
+        "name": "rabies vaccination",
         "description": "Administration of vaccine product containing only Rabies lyssavirus antigen",
         "ovetShorthand": "rabies",
         "ovetDetailed": "This vaccine protects against rabies, a viral disease that affects the central nervous system. This critical vaccination is often required by law due to the fatal nature of rabies infections. This virus can affect all mammals and is typically transmitted through the bite of an infected animal."
     },
     "416059007": {
-        "name": "Rabies booster vaccination",
+        "name": "rabies booster vaccination",
         "description": "Administration of booster dose of vaccine product containing only Rabies lyssavirus antigen",
         "ovetShorthand": "rabies",
         "ovetDetailed": "This booster vaccination reinforces protection against rabies. Regular boosters are essential to maintain immunity levels and ensure continuous protection against this fatal disease. The timing of boosters is determined by local regulations and previous vaccination history."
