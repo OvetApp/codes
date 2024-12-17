@@ -1,134 +1,86 @@
-{
-  "170365007": {
+[
+  {
+    "code": "170365007",
     "name": "first rabies vaccination",
     "description": "Administration of first dose of vaccine product containing only rabies lyssavirus antigen",
     "ovetShorthand": "rabies",
     "ovetDetailed": "This initial vaccination against rabies is crucial for protecting against this deadly viral disease. This first dose begins building immunity by stimulating the production of antibodies. Regular vaccination is essential for pets as rabies can be fatal and is a significant public health concern."
   },
-  "170366008": {
+  {
+    "code": "170366008",
     "name": "second rabies vaccination",
     "description": "Administration of second dose of vaccine product containing only Rabies lyssavirus antigen",
     "ovetShorthand": "rabies",
     "ovetDetailed": "This second vaccination against rabies is vital for reinforcing the immunity established by this first dose. This follow-up vaccination helps ensure long-lasting protection by strengthening the immune response and is typically administered according to a specific schedule determined by veterinary guidelines."
   },
-  "170367004": {
+  {
+    "code": "170367004",
     "name": "third rabies vaccination",
     "description": "Administration of third dose of vaccine product containing only rabies lyssavirus antigen",
     "ovetShorthand": "rabies",
     "ovetDetailed": "This third vaccination against rabies is important for ensuring continued immunity. This final dose in this initial series completes the foundation for long-term protection. Regular boosters may still be required according to local regulations and veterinary recommendations."
   },
-  "335861000009109": {
+  {
+    "code": "335861000009109",
     "name": "immunization for canine leptospirosis",
     "description": "A vaccine that protects against leptospirosis, a bacterial infection that can affect the liver and kidneys.",
     "ovetShorthand": "leptospirosis",
     "ovetDetailed": "This vaccination protects against leptospira bacteria, which can cause serious kidney and liver infections. This bacteria persist in water and soil for long periods. Vaccination is especially important for dogs with outdoor exposure as this disease can be transmitted to humans."
   },
-  "348691000009108": {
+  {
+    "code": "348691000009108",
     "name": "immunization for feline leukemia",
     "description": "A vaccine designed to protect from feline leukemia virus (FeLV), which can suppress the immune system and lead to severe illnesses.",
     "ovetShorthand": "feline leukemia",
     "ovetDetailed": "This immunization is especially important for outdoor or social cats that may come into contact with infected individuals. This FeLV can spread through close contact and shared resources. Early vaccination provides the best protection, particularly for young cats most susceptible to infection."
   },
-  "361661000009100": {
+  {
+    "code": "361661000009100",
     "name": "immunization for bordetella",
     "description": "Administration of vaccine product containing Bordetella bronchisepticum antigen",
     "ovetShorthand": "bordetella",
     "ovetDetailed": "This vaccine protects against Bordetella bronchiseptica, a common bacterial cause of kennel cough. This highly contagious respiratory infection can spread rapidly in areas where dogs congregate, such as kennels, dog parks, and grooming facilities. Vaccination is particularly important for social dogs."
   },
-  "396455004": {
+  {
+    "code": "396455004",
     "name": "administration of lyme disease vaccine",
     "description": "Administration of vaccine product containing only borrelia burgdorferi antigen",
     "ovetShorthand": "lyme disease",
     "ovetDetailed": "This vaccine protects against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This tick-borne illness can cause serious complications including joint pain, fever, and kidney problems. Vaccination is particularly important in areas where ticks are prevalent."
   },
-  "34631000": {
+  {
+    "code": "34631000",
     "name": "rabies vaccination",
     "description": "Administration of vaccine product containing only rabies lyssavirus antigen",
     "ovetShorthand": "rabies",
     "ovetDetailed": "This vaccine protects against rabies, a viral disease that affects the central nervous system. This critical vaccination is often required by law due to the fatal nature of rabies infections. This virus can affect all mammals and is typically transmitted through the bite of an infected animal."
   },
-  "416059007": {
+  {
+    "code": "416059007",
     "name": "rabies booster vaccination",
     "description": "Administration of booster dose of vaccine product containing only rabies lyssavirus antigen",
     "ovetShorthand": "rabies",
     "ovetDetailed": "This booster vaccination reinforces protection against rabies. Regular boosters are essential to maintain immunity levels and ensure continuous protection against this fatal disease. The timing of boosters is determined by local regulations and previous vaccination history."
   },
-  "351341000009101": {
+  {
+    "code": "351341000009101",
     "name": "immunization for canine distemper/hepatitis",
     "description": "A vaccine that protects against canine distemper and infectious hepatitis, both serious viral diseases.",
     "ovetShorthand": "distemper/hepatitis",
     "ovetDetailed": "This vaccination is crucial for protecting dogs against two severe viral diseases: canine distemper, which affects the respiratory, gastrointestinal, and central nervous systems, and infectious hepatitis, which can cause liver damage. Vaccination is essential for all dogs, especially those in high-risk environments."
   },
-  "344321000009105": {
+  {
+    "code": "344321000009105",
     "name": "animal immunization for rabies",
     "description": "Administration of vaccine product containing only rabies lyssavirus antigen for animals.",
     "ovetShorthand": "rabies",
     "ovetDetailed": "This vaccination is essential for animals to protect against rabies, a viral disease that can be fatal. Ensuring that all animals are vaccinated is crucial for public health and safety."
   },
-  "335711000009100": {
+  {
+    "code": "335711000009100",
     "name": "immunization for rhinotracheitis/fpl/calici",
     "description": "A vaccine that protects against feline viral rhinotracheitis, feline panleukopenia virus (fpl), and feline calicivirus.",
     "ovetShorthand": "rhinotracheitis/fpl/calici",
     "ovetDetailed": "This vaccination is essential for protecting cats against three serious viral diseases. It is particularly important for young cats and those living in high-risk environments."
-  },
-  "361911000009107": {
-    "name": "body condition score 1/9",
-    "description": "Evaluation of body condition indicating a very thin body condition.",
-    "ovetShorthand": "body condition: 1/9",
-    "ovetDetailed": "This score indicates a very thin body condition, suggesting that the animal may be underweight and in need of nutritional support."
-  },
-  "361921000009104": {
-    "name": "body condition score 2/9",
-    "description": "Evaluation of body condition indicating a thin body condition.",
-    "ovetShorthand": "body condition: 2/9",
-    "ovetDetailed": "This score indicates a thin body condition, suggesting that the animal may be slightly underweight and could benefit from increased nutrition."
-  },
-  "361931000009102": {
-    "name": "body condition score 3/9",
-    "description": "Evaluation of body condition indicating a moderate body condition.",
-    "ovetShorthand": "body condition: 3/9",
-    "ovetDetailed": "This score indicates a moderate body condition, suggesting that the animal is at a healthy weight but may require monitoring."
-  },
-  "361941000009108": {
-    "name": "body condition score 4/9",
-    "description": "Evaluation of body condition indicating an ideal body condition.",
-    "ovetShorthand": "body condition: 4/9",
-    "ovetDetailed": "This score indicates an ideal body condition, suggesting that the animal is at a healthy weight and in good health."
-  },
-  "361971000009100": {
-    "name": "body condition score 5/9",
-    "description": "Evaluation of body condition indicating a slightly overweight body condition.",
-    "ovetShorthand": "body condition: 5/9",
-    "ovetDetailed": "This score indicates a slightly overweight body condition, suggesting that the animal may need to reduce its food intake or increase its exercise."
-  },
-  "361951000009106": {
-    "name": "body condition score 6/9",
-    "description": "Evaluation of body condition indicating an overweight body condition.",
-    "ovetShorthand": "body condition: 6/9",
-    "ovetDetailed": "This score indicates an overweight body condition, suggesting that the animal is at risk of health problems and may require a weight management plan."
-  },
-  "361961000009109": {
-    "name": "body condition score 7/9",
-    "description": "Evaluation of body condition indicating a moderately obese body condition.",
-    "ovetShorthand": "body condition: 7/9",
-    "ovetDetailed": "This score indicates a moderately obese body condition, suggesting that the animal is significantly overweight and should be evaluated for a weight loss program."
-  },
-  "361981000009103": {
-    "name": "body condition score 8/9",
-    "description": "Evaluation of body condition indicating an obese body condition.",
-    "ovetShorthand": "body condition: 8/9",
-    "ovetDetailed": "This score indicates an obese body condition, suggesting that the animal is at high risk of serious health problems and requires immediate dietary intervention."
-  },
-  "361991000009101": {
-    "name": "body condition score 9/9",
-    "description": "Evaluation of body condition indicating a severely obese body condition.",
-    "ovetShorthand": "body condition: 9/9",
-    "ovetDetailed": "This score indicates a severely obese body condition, suggesting that the animal is at extreme risk of life-threatening health problems and requires urgent veterinary attention."
-  },
-  "27113001": {
-    "name": "Body weight",
-    "description": "Measurement of the animal's weight, an important indicator of health and nutrition.",
-    "ovetShorthand": "body weight",
-    "ovetDetailed": "This measurement is important for assessing the overall health of the animal. Regular monitoring of body weight helps in identifying potential health issues and ensuring proper nutrition."
   }
-}
+]

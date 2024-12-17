@@ -1,0 +1,72 @@
+[
+  {
+    "code": "27113001",
+    "name": "Poids corporel",
+    "description": "Mesure du poids de l'animal, un indicateur important de santé et de nutrition.",
+    "ovetShorthand": "poids corporel",
+    "ovetDetailed": "Cette mesure est importante pour évaluer la santé globale de l'animal. La surveillance régulière du poids corporel aide à identifier les problèmes de santé potentiels et à garantir une nutrition adéquate."
+  },
+  {
+    "code": "361911000009107",
+    "name": "État de chair 1/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle très mince.",
+    "ovetShorthand": "état de chair:1/9",
+    "ovetDetailed": "Ce score indique une condition corporelle très mince, suggérant que l'animal peut être sous-poids et avoir besoin d'un soutien nutritionnel."
+  },
+  {
+    "code": "361921000009104",
+    "name": "État de chair 2/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle mince.",
+    "ovetShorthand": "état de chair: 2/9",
+    "ovetDetailed": "Ce score indique une condition corporelle mince, suggérant que l'animal peut être légèrement sous-poids et pourrait bénéficier d'une nutrition accrue."
+  },
+  {
+    "code": "361931000009102",
+    "name": "État de chair 3/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle modérée.",
+    "ovetShorthand": "état de chair: 3/9",
+    "ovetDetailed": "Ce score indique une condition corporelle modérée, suggérant que l'animal est à un poids sain mais peut nécessiter une surveillance."
+  },
+  {
+    "code": "361941000009108",
+    "name": "État de chair 4/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle idéale.",
+    "ovetShorthand": "état de chair: 4/9",
+    "ovetDetailed": "Ce score indique une condition corporelle idéale, suggérant que l'animal est à un poids sain et en bonne santé."
+  },
+  {
+    "code": "361971000009100",
+    "name": "État de chair 5/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle légèrement en surpoids.",
+    "ovetShorthand": "état de chair: 5/9",
+    "ovetDetailed": "Ce score indique une condition corporelle légèrement en surpoids, suggérant que l'animal peut avoir besoin de réduire son apport alimentaire ou d'augmenter son exercice."
+  },
+  {
+    "code": "361951000009106",
+    "name": "État de chair 6/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle en surpoids.",
+    "ovetShorthand": "état de chair: 6/9",
+    "ovetDetailed": "Ce score indique une condition corporelle en surpoids, suggérant que l'animal est à risque de problèmes de santé et peut nécessiter un plan de gestion du poids."
+  },
+  {
+    "code": "361961000009109",
+    "name": "État de chair 7/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle modérément obèse.",
+    "ovetShorthand": "état de chair: 7/9",
+    "ovetDetailed": "Ce score indique une condition corporelle modérément obèse, suggérant que l'animal est significativement en surpoids et devrait être évalué pour un programme de perte de poids."
+  },
+  {
+    "code": "361981000009103",
+    "name": "État de chair 8/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle obèse.",
+    "ovetShorthand": "état de chair: 8/9",
+    "ovetDetailed": "Ce score indique une condition corporelle obèse, suggérant que l'animal est à haut risque de problèmes de santé graves et nécessite une intervention diététique immédiate."
+  },
+  {
+    "code": "361991000009101",
+    "name": "État de chair 9/9",
+    "description": "Évaluation de l'état de chair indiquant une condition corporelle sévèrement obèse.",
+    "ovetShorthand": "état de chair: 9/9",
+    "ovetDetailed": "Ce score indique une condition corporelle sévèrement obèse, suggérant que l'animal est à un risque extrême de problèmes de santé mettant sa vie en danger et nécessite une attention vétérinaire urgente."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "170365007",
+    "name": "première vaccination contre la rage",
+    "description": "Administration de la première dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+    "ovetShorthand": "rage",
+    "ovetDetailed": "Cette vaccination initiale contre la rage est cruciale pour protéger contre cette maladie virale mortelle. Elle commence à construire l'immunité en stimulant la production d'anticorps."
+  },
+  {
+    "code": "170366008",
+    "name": "deuxième vaccination contre la rage",
+    "description": "Administration de la deuxième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+    "ovetShorthand": "rage",
+    "ovetDetailed": "Cette deuxième vaccination est vitale pour renforcer l'immunité établie par la première dose et garantir une protection durable."
+  },
+  {
+    "code": "170367004",
+    "name": "troisième vaccination contre la rage",
+    "description": "Administration de la troisième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+    "ovetShorthand": "rage",
+    "ovetDetailed": "Cette troisième vaccination est importante pour assurer une immunité continue et compléter la protection à long terme."
+  },
+  {
+    "code": "335861000009109",
+    "name": "vaccination contre la leptospirose canine",
+    "description": "Un vaccin qui protège contre la leptospirose, une infection bactérienne qui peut affecter le foie et les reins.",
+    "ovetShorthand": "leptospirose",
+    "ovetDetailed": "Cette vaccination protège contre les bactéries Leptospira, qui peuvent causer de graves infections. Elle est essentielle pour les chiens exposés à l'extérieur."
+  },
+  {
+    "code": "348691000009108",
+    "name": "vaccination contre la leucémie féline",
+    "description": "Un vaccin conçu pour protéger contre le virus de la leucémie féline (FeLV), qui peut supprimer le système immunitaire.",
+    "ovetShorthand": "leucémie féline",
+    "ovetDetailed": "Cette vaccination est cruciale pour les chats d'extérieur qui peuvent entrer en contact avec des individus infectés."
+  },
+  {
+    "code": "361661000009100",
+    "name": "vaccination contre la bordetella",
+    "description": "Administration d'un produit vaccinal contenant l'antigène de Bordetella bronchiseptica",
+    "ovetShorthand": "bordetella",
+    "ovetDetailed": "Ce vaccin protège contre Bordetella bronchiseptica, une cause courante de toux de chenil, et est essentiel pour les chiens sociaux."
+  },
+  {
+    "code": "396455004",
+    "name": "administration du vaccin contre la maladie de Lyme",
+    "description": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
+    "ovetShorthand": "maladie de Lyme",
+    "ovetDetailed": "Ce vaccin protège contre Borrelia burgdorferi, responsable de la maladie de Lyme, une infection transmise par les tiques. Cette maladie peut entraîner des complications graves telles que des douleurs articulaires, de la fièvre et des problèmes rénaux. La vaccination est particulièrement importante dans les régions où les tiques sont prévalentes."
+  },
+  {
+    "code": "34631000",
+    "name": "vaccination contre la rage",
+    "description": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+    "ovetShorthand": "rage",
+    "ovetDetailed": "Ce vaccin protège contre la rage, une maladie virale affectant le système nerveux central, souvent exigée par la loi."
+  },
+  {
+    "code": "416059007",
+    "name": "vaccination de rappel contre la rage",
+    "description": "Administration d'une dose de rappel d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+    "ovetShorthand": "rage",
+    "ovetDetailed": "Cette vaccination de rappel renforce la protection contre la rage et est essentielle pour maintenir les niveaux d'immunité."
+  },
+  {
+    "code": "351341000009101",
+    "name": "Vaccination contre la la maladie de Carré/hépatite canine",
+    "description": "Un vaccin qui protège contre la maladie de Carré et l'hépatite infectieuse, deux maladies virales graves.",
+    "ovetShorthand": "distemper/hépatite",
+    "ovetDetailed": "Cette vaccination est essentielle pour protéger les chiens contre deux maladies virales graves : la maladie de Carré et l'hépatite infectieuse. La vaccination est particulièrement importante pour les chiens dans des environnements à haut risque."
+  },
+  {
+    "code": "344321000009105",
+    "name": "Vaccination animale contre la rage",
+    "description": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique pour les animaux.",
+    "ovetShorthand": "rage",
+    "ovetDetailed": "Cette vaccination est essentielle pour les animaux afin de les protéger contre la rage, une maladie virale qui peut être fatale. Assurer que tous les animaux soient vaccinés est crucial pour la santé publique et la sécurité."
+  },
+  {
+    "code": "335711000009100",
+    "name": "Vaccination contre la rhinotrachéite/FPL/calici",
+    "description": "Un vaccin qui protège contre la rhinotrachéite virale féline, le virus de la panleucopénie féline (FPL) et le virus calicivirus félin.",
+    "ovetShorthand": "rhinotrachéite/FPL/calici",
+    "ovetDetailed": "Cette vaccination est essentielle pour protéger les chats contre trois maladies virales graves. Elle est particulièrement importante pour les jeunes chats et ceux vivant dans des environnements à risque."
+  }
+]
