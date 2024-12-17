@@ -39,7 +39,7 @@
         "name": "administration du vaccin contre la maladie de Lyme",
         "description": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
         "ovetShorthand": "maladie de Lyme",
-        "ovetDetailed": "Ce vaccin protège contre Borrelia burgdorferi, responsable de la maladie de Lyme, qui peut causer des complications graves."
+        "ovetDetailed": "Ce vaccin protège contre Borrelia burgdorferi, responsable de la maladie de Lyme, une infection transmise par les tiques. Cette maladie peut entraîner des complications graves telles que des douleurs articulaires, de la fièvre et des problèmes rénaux. La vaccination est particulièrement importante dans les régions où les tiques sont prévalentes."
     },
     "34631000": {
         "name": "vaccination contre la rage",
