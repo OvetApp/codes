@@ -1,0 +1,222 @@
+{
+    "170365007": {
+        "name": "first rabies vaccination",
+        "description": "Administration of first dose of vaccine product containing only rabies lyssavirus antigen",
+        "ovetShorthand": "rabies",
+        "ovetDetailed": "This initial vaccination against rabies is crucial for protecting against this deadly viral disease. This first dose begins building immunity by stimulating the production of antibodies. Regular vaccination is essential for pets as rabies can be fatal and is a significant public health concern.",
+        "nameFR": "première vaccination contre la rage",
+        "descriptionFR": "Administration de la première dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "ovetShorthandFR": "rage",
+        "ovetDetailedFR": "Cette vaccination initiale contre la rage est cruciale pour protéger contre cette maladie virale mortelle. Elle commence à construire l'immunité en stimulant la production d'anticorps."
+    },
+    "170366008": {
+        "name": "second rabies vaccination",
+        "description": "Administration of second dose of vaccine product containing only Rabies lyssavirus antigen",
+        "ovetShorthand": "rabies",
+        "ovetDetailed": "This second vaccination against rabies is vital for reinforcing the immunity established by this first dose. This follow-up vaccination helps ensure long-lasting protection by strengthening the immune response and is typically administered according to a specific schedule determined by veterinary guidelines.",
+        "nameFR": "deuxième vaccination contre la rage",
+        "descriptionFR": "Administration de la deuxième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "ovetShorthandFR": "rage",
+        "ovetDetailedFR": "Cette deuxième vaccination est vitale pour renforcer l'immunité établie par la première dose et garantir une protection durable."
+    },
+    "170367004": {
+        "name": "third rabies vaccination",
+        "description": "Administration of third dose of vaccine product containing only rabies lyssavirus antigen",
+        "ovetShorthand": "rabies",
+        "ovetDetailed": "This third vaccination against rabies is important for ensuring continued immunity. This final dose in this initial series completes the foundation for long-term protection. Regular boosters may still be required according to local regulations and veterinary recommendations.",
+        "nameFR": "troisième vaccination contre la rage",
+        "descriptionFR": "Administration de la troisième dose d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "ovetShorthandFR": "rage",
+        "ovetDetailedFR": "Cette troisième vaccination est importante pour assurer une immunité continue et compléter la protection à long terme."
+    },
+    "335861000009109": {
+        "name": "immunization for canine leptospirosis",
+        "description": "A vaccine that protects against leptospirosis, a bacterial infection that can affect the liver and kidneys.",
+        "ovetShorthand": "leptospirosis",
+        "ovetDetailed": "This vaccination protects against leptospira bacteria, which can cause serious kidney and liver infections. This bacteria persist in water and soil for long periods. Vaccination is especially important for dogs with outdoor exposure as this disease can be transmitted to humans.",
+        "nameFR": "vaccination contre la leptospirose canine",
+        "descriptionFR": "Un vaccin qui protège contre la leptospirose, une infection bactérienne qui peut affecter le foie et les reins.",
+        "ovetShorthandFR": "leptospirose",
+        "ovetDetailedFR": "Cette vaccination protège contre les bactéries Leptospira, qui peuvent causer de graves infections. Elle est essentielle pour les chiens exposés à l'extérieur."
+    },
+    "348691000009108": {
+        "name": "immunization for feline leukemia",
+        "description": "A vaccine designed to protect from feline leukemia virus (FeLV), which can suppress the immune system and lead to severe illnesses.",
+        "ovetShorthand": "feline leukemia",
+        "ovetDetailed": "This immunization is especially important for outdoor or social cats that may come into contact with infected individuals. This FeLV can spread through close contact and shared resources. Early vaccination provides the best protection, particularly for young cats most susceptible to infection.",
+        "nameFR": "vaccination contre la leucémie féline",
+        "descriptionFR": "Un vaccin conçu pour protéger contre le virus de la leucémie féline (FeLV), qui peut supprimer le système immunitaire.",
+        "ovetShorthandFR": "leucémie féline",
+        "ovetDetailedFR": "Cette vaccination est cruciale pour les chats d'extérieur qui peuvent entrer en contact avec des individus infectés."
+    },
+    "361661000009100": {
+        "name": "immunization for bordetella",
+        "description": "Administration of vaccine product containing Bordetella bronchisepticum antigen",
+        "ovetShorthand": "bordetella",
+        "ovetDetailed": "This vaccine protects against Bordetella bronchiseptica, a common bacterial cause of kennel cough. This highly contagious respiratory infection can spread rapidly in areas where dogs congregate, such as kennels, dog parks, and grooming facilities. Vaccination is particularly important for social dogs.",
+        "nameFR": "vaccination contre la bordetella",
+        "descriptionFR": "Administration d'un produit vaccinal contenant l'antigène de Bordetella bronchiseptica",
+        "ovetShorthandFR": "bordetella",
+        "ovetDetailedFR": "Ce vaccin protège contre Bordetella bronchiseptica, une cause courante de toux de chenil, et est essentiel pour les chiens sociaux."
+    },
+    "396455004": {
+        "name": "administration of lyme disease vaccine",
+        "description": "Administration of vaccine product containing only borrelia burgdorferi antigen",
+        "ovetShorthand": "lyme disease",
+        "ovetDetailed": "This vaccine protects against Borrelia burgdorferi, the bacterium responsible for Lyme disease. This tick-borne illness can cause serious complications including joint pain, fever, and kidney problems. Vaccination is particularly important in areas where ticks are prevalent.",
+        "nameFR": "administration du vaccin contre la maladie de Lyme",
+        "descriptionFR": "Administration d'un produit vaccinal contenant uniquement l'antigène de Borrelia burgdorferi",
+        "ovetShorthandFR": "maladie de Lyme",
+        "ovetDetailedFR": "Ce vaccin protège contre Borrelia burgdorferi, responsable de la maladie de Lyme, une infection transmise par les tiques. Cette maladie peut entraîner des complications graves telles que des douleurs articulaires, de la fièvre et des problèmes rénaux. La vaccination est particulièrement importante dans les régions où les tiques sont prévalentes."
+    },
+    "34631000": {
+        "name": "rabies vaccination",
+        "description": "Administration of vaccine product containing only rabies lyssavirus antigen",
+        "ovetShorthand": "rabies",
+        "ovetDetailed": "This vaccine protects against rabies, a viral disease that affects the central nervous system. This critical vaccination is often required by law due to the fatal nature of rabies infections. This virus can affect all mammals and is typically transmitted through the bite of an infected animal.",
+        "nameFR": "vaccination contre la rage",
+        "descriptionFR": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "ovetShorthandFR": "rage",
+        "ovetDetailedFR": "Ce vaccin protège contre la rage, une maladie virale affectant le système nerveux central, souvent exigée par la loi."
+    },
+    "416059007": {
+        "name": "rabies booster vaccination",
+        "description": "Administration of booster dose of vaccine product containing only rabies lyssavirus antigen",
+        "ovetShorthand": "rabies",
+        "ovetDetailed": "This booster vaccination reinforces protection against rabies. Regular boosters are essential to maintain immunity levels and ensure continuous protection against this fatal disease. The timing of boosters is determined by local regulations and previous vaccination history.",
+        "nameFR": "vaccination de rappel contre la rage",
+        "descriptionFR": "Administration d'une dose de rappel d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique",
+        "ovetShorthandFR": "rage",
+        "ovetDetailedFR": "Cette vaccination de rappel renforce la protection contre la rage et est essentielle pour maintenir les niveaux d'immunité."
+    },
+    "351341000009101": {
+        "name": "immunization for canine distemper/hepatitis",
+        "description": "A vaccine that protects against canine distemper and infectious hepatitis, both serious viral diseases.",
+        "ovetShorthand": "distemper/hepatitis",
+        "ovetDetailed": "This vaccination is crucial for protecting dogs against two severe viral diseases: canine distemper, which affects the respiratory, gastrointestinal, and central nervous systems, and infectious hepatitis, which can cause liver damage. Vaccination is essential for all dogs, especially those in high-risk environments.",
+        "nameFR": "Vaccination contre la la maladie de Carré/hépatite canine",
+        "descriptionFR": "Un vaccin qui protège contre la maladie de Carré et l'hépatite infectieuse, deux maladies virales graves.",
+        "ovetShorthandFR": "distemper/hépatite",
+        "ovetDetailedFR": "Cette vaccination est essentielle pour protéger les chiens contre deux maladies virales graves : la maladie de Carré et l'hépatite infectieuse. La vaccination est particulièrement importante pour les chiens dans des environnements à haut risque."
+    },
+    "344321000009105": {
+        "name": "animal immunization for rabies",
+        "description": "Administration of vaccine product containing only rabies lyssavirus antigen for animals.",
+        "ovetShorthand": "rabies",
+        "ovetDetailed": "This vaccination is essential for animals to protect against rabies, a viral disease that can be fatal. Ensuring that all animals are vaccinated is crucial for public health and safety.",
+        "nameFR": "Vaccination animale contre la rage",
+        "descriptionFR": "Administration d'un produit vaccinal contenant uniquement l'antigène du lyssavirus rabique pour les animaux.",
+        "ovetShorthandFR": "rage",
+        "ovetDetailedFR": "Cette vaccination est essentielle pour les animaux afin de les protéger contre la rage, une maladie virale qui peut être fatale. Assurer que tous les animaux soient vaccinés est crucial pour la santé publique et la sécurité."
+    },
+    "335711000009100": {
+        "name": "immunization for rhinotracheitis/fpl/calici",
+        "description": "A vaccine that protects against feline viral rhinotracheitis, feline panleukopenia virus (fpl), and feline calicivirus.",
+        "ovetShorthand": "rhinotracheitis/fpl/calici",
+        "ovetDetailed": "This vaccination is essential for protecting cats against three serious viral diseases. It is particularly important for young cats and those living in high-risk environments.",
+        "nameFR": "Vaccination contre la rhinotrachéite/FPL/calici",
+        "descriptionFR": "Un vaccin qui protège contre la rhinotrachéite virale féline, le virus de la panleucopénie féline (FPL) et le virus calicivirus félin.",
+        "ovetShorthandFR": "rhinotrachéite/FPL/calici",
+        "ovetDetailedFR": "Cette vaccination est essentielle pour protéger les chats contre trois maladies virales graves. Elle est particulièrement importante pour les jeunes chats et ceux vivant dans des environnements à risque."
+    },
+    "361911000009107": {
+        "name": "body condition score 1/9",
+        "description": "Evaluation of body condition indicating a very thin body condition.",
+        "ovetShorthand": "body condition: 1/9",
+        "ovetDetailed": "This score indicates a very thin body condition, suggesting that the animal may be underweight and in need of nutritional support.",
+        "nameFR": "État de chair 1/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle très mince.",
+        "ovetShorthandFR": "état de chair:1/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle très mince, suggérant que l'animal peut être sous-poids et avoir besoin d'un soutien nutritionnel."
+    },
+    "361921000009104": {
+        "name": "body condition score 2/9",
+        "description": "Evaluation of body condition indicating a thin body condition.",
+        "ovetShorthand": "body condition: 2/9",
+        "ovetDetailed": "This score indicates a thin body condition, suggesting that the animal may be slightly underweight and could benefit from increased nutrition.",
+        "nameFR": "État de chair 2/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle mince.",
+        "ovetShorthandFR": "état de chair: 2/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle mince, suggérant que l'animal peut être légèrement sous-poids et pourrait bénéficier d'une nutrition accrue."
+    },
+    "361931000009102": {
+        "name": "body condition score 3/9",
+        "description": "Evaluation of body condition indicating a moderate body condition.",
+        "ovetShorthand": "body condition: 3/9",
+        "ovetDetailed": "This score indicates a moderate body condition, suggesting that the animal is at a healthy weight but may require monitoring.",
+        "nameFR": "État de chair 3/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle modérée.",
+        "ovetShorthandFR": "état de chair: 3/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle modérée, suggérant que l'animal est à un poids sain mais peut nécessiter une surveillance."
+    },
+    "361941000009108": {
+        "name": "body condition score 4/9",
+        "description": "Evaluation of body condition indicating an ideal body condition.",
+        "ovetShorthand": "body condition: 4/9",
+        "ovetDetailed": "This score indicates an ideal body condition, suggesting that the animal is at a healthy weight and in good health.",
+        "nameFR": "État de chair 4/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle idéale.",
+        "ovetShorthandFR": "état de chair: 4/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle idéale, suggérant que l'animal est à un poids sain et en bonne santé."
+    },
+    "361971000009100": {
+        "name": "body condition score 5/9",
+        "description": "Evaluation of body condition indicating a slightly overweight body condition.",
+        "ovetShorthand": "body condition: 5/9",
+        "ovetDetailed": "This score indicates a slightly overweight body condition, suggesting that the animal may need to reduce its food intake or increase its exercise.",
+        "nameFR": "État de chair 5/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle légèrement en surpoids.",
+        "ovetShorthandFR": "état de chair: 5/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle légèrement en surpoids, suggérant que l'animal peut avoir besoin de réduire son apport alimentaire ou d'augmenter son exercice."
+    },
+    "361951000009106": {
+        "name": "body condition score 6/9",
+        "description": "Evaluation of body condition indicating an overweight body condition.",
+        "ovetShorthand": "body condition: 6/9",
+        "ovetDetailed": "This score indicates an overweight body condition, suggesting that the animal is at risk of health problems and may require a weight management plan.",
+        "nameFR": "État de chair 6/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle en surpoids.",
+        "ovetShorthandFR": "état de chair: 6/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle en surpoids, suggérant que l'animal est à risque de problèmes de santé et peut nécessiter un plan de gestion du poids."
+    },
+    "361961000009109": {
+        "name": "body condition score 7/9",
+        "description": "Evaluation of body condition indicating a moderately obese body condition.",
+        "ovetShorthand": "body condition: 7/9",
+        "ovetDetailed": "This score indicates a moderately obese body condition, suggesting that the animal is significantly overweight and should be evaluated for a weight loss program.",
+        "nameFR": "État de chair 7/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle modérément obèse.",
+        "ovetShorthandFR": "état de chair: 7/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle modérément obèse, suggérant que l'animal est significativement en surpoids et devrait être évalué pour un programme de perte de poids."
+    },
+    "361981000009103": {
+        "name": "body condition score 8/9",
+        "description": "Evaluation of body condition indicating an obese body condition.",
+        "ovetShorthand": "body condition: 8/9",
+        "ovetDetailed": "This score indicates an obese body condition, suggesting that the animal is at high risk of serious health problems and requires immediate dietary intervention.",
+        "nameFR": "État de chair 8/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle obèse.",
+        "ovetShorthandFR": "état de chair: 8/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle obèse, suggérant que l'animal est à haut risque de problèmes de santé graves et nécessite une intervention diététique immédiate."
+    },
+    "361991000009101": {
+        "name": "body condition score 9/9",
+        "description": "Evaluation of body condition indicating a severely obese body condition.",
+        "ovetShorthand": "body condition: 9/9",
+        "ovetDetailed": "This score indicates a severely obese body condition, suggesting that the animal is at extreme risk of life-threatening health problems and requires urgent veterinary attention.",
+        "nameFR": "État de chair 9/9",
+        "descriptionFR": "Évaluation de l'état de chair indiquant une condition corporelle sévèrement obèse.",
+        "ovetShorthandFR": "état de chair: 9/9",
+        "ovetDetailedFR": "Ce score indique une condition corporelle sévèrement obèse, suggérant que l'animal est à un risque extrême de problèmes de santé mettant sa vie en danger et nécessite une attention vétérinaire urgente."
+    },
+    "27113001": {
+        "name": "Body weight",
+        "description": "Measurement of the animal's weight, an important indicator of health and nutrition.",
+        "ovetShorthand": "body weight",
+        "ovetDetailed": "This measurement is important for assessing the overall health of the animal. Regular monitoring of body weight helps in identifying potential health issues and ensuring proper nutrition.",
+        "nameFR": "Poids corporel",
+        "descriptionFR": "Mesure du poids de l'animal, un indicateur important de santé et de nutrition.",
+        "ovetShorthandFR": "poids corporel",
+        "ovetDetailedFR": "Cette mesure est importante pour évaluer la santé globale de l'animal. La surveillance régulière du poids corporel aide à identifier les problèmes de santé potentiels et à garantir une nutrition adéquate."
+    }
+}
